@@ -10,11 +10,11 @@ https://www.python.org/downloads/
 - Clone or download the repository locally
 - Go into the terminal and in the main project directory, enter
 ```
-chmod +x runReport.py
+chmod +x run_report.py
 ```
 - To start the parser enter
 ```
-./runReport.py
+./run_report.py
 ```
 
 ## Notes
